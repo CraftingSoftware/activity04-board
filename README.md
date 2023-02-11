@@ -1,7 +1,5 @@
 # Activity 04 - Project Board
 
-## DUE: by 11am Thursday, September 29 
-
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and
